@@ -1,0 +1,22 @@
+#Environment Variables
+.env
+.env.*
+.env.local
+
+#SSH Keys
+*.pem
+
+#Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+#IDE
+.vscode/
+.idea/
